@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @HimanshuSinghTariyal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Scientist tools
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub profile! I am a passionate Data Scientist with a strong foundation in data analysis,data cleaning,data  visualization, machine learning, and statistical modeling. I hold a BCom degree from Delhi University, where I developed a keen interest in data-driven decision-making.
 
-<!---
-HimanshuSinghTariyal/HimanshuSinghTariyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:
+Programming Languages: Python,  SQL
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn,BeautifulSoup
+Machine Learning: Scikit-learn
+Data Visualization: Power BI
+Tools: Jupyter Notebooks, Excel,Pyacharm,vs code
+
+I am currently focused on enhancing my skills in data science and contributing to open-source projects. My aim is to solve real-world problems through data analysis and machine learning techniques.
+Feel free to connect with me or check out my projects!
